@@ -1,5 +1,5 @@
-1. Ryan Wagner
+# Week 11 Git Workshop
+**Author:** Ryan Wagner
+**Section:** B
 
-2. I did not work with any partners on this lab.
-
-3. Any other information.
+This is a beginner level version control workshop to help learn basic git commands and processes to allow me to use version control on school and personal projects.
